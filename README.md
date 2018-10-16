@@ -1,2 +1,2 @@
-# Iphone
-Iphone demo
+# iPhone
+My iPhone demo
