@@ -1,4 +1,4 @@
-# 使用object-c实现cal命令
+# 使用Objective-C实现cal命令
 ## 具体功能
 - 运行cal，输出当月的月历
 - 运行cal [month] [year]，输出year.month的月历
